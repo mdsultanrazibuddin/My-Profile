@@ -39,7 +39,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mdsultanrazibuddin/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/M"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/MSRazibUddin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://facebook.com/mdsultanrazibuddin"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://twitter.com/MSRazibUddin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
 </p>
